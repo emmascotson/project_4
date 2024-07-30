@@ -78,6 +78,6 @@ Final Random Forest mode scores were:
 
 Key words unique to each status group that greatly helped my final model's succes were identified using TF-IDF. Example word-cloud below of unique, important tokens to **Anxiety** status group.
 
-![Anxiety Word Cloud](Anxiety_wordcloud.png)
+![Anxiety Word Cloud](images/Anxiety_wordcloud.png)
 
 Given the complexity and messiness of this dataset, I’m very happy with the proportional magnitude at which my final scores had improved from my baseline model, even if there’s still room for further improvement.
